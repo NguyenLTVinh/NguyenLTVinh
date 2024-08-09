@@ -10,7 +10,7 @@ You can contact me at <a href="mailto:vinhnguyenlethanh@gmail.com">vinhnguyenlet
 - 🐧 Linux Enthusiast
 - 💭 Interested in a variety of topics, especially Computer Vision, IoT, Embedded Systems
 
-### Working on: 🔧
+### Working on 🔧
 - 🏅 Creating a software to augment sport videos with information such as athlete's information, program components, scoring, etc. using pose estimation and facial recognition.
 - 🔑 Building an eKYC system with facial recognition and verification with measures to prevent spoofing attacks.
 - 🧑‍🔬️ Working on my Master's thesis.
