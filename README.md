@@ -1,6 +1,6 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 <h1 align="center"><b>Hello there , I'm Vinh Nguyen</b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJvNGtvd2NpemNsazFuY3c4cHF6cGUyMWVxaWg2eGNuNzNubjhqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GZ1kHk53BUdDXsQWmP/giphy.gif" width="80"></h1>
-You can contact me at <a href="mailto:vinhnguyenlethanh@gmail.com">vinhnguyenlethanh@gmail.com</a> or <a href="https://www.linkedin.com/in/vinh-nguyen-a42943238/">LinkedIn.</a> Also, please check out my <a href="https://vinhnguyen2003.github.io">personal website</a> for more information.
+You can contact me at <a href="mailto:vinhnguyenlethanh@gmail.com">vinhnguyenlethanh@gmail.com</a> or <a href="https://www.linkedin.com/in/vinh-nguyen-a42943238/">LinkedIn.</a> Also, please check out my <a href="https://nguyenltvinh.github.io">personal website</a> for more information.
 
 ### About Me 🤓
 - 🖥️ Computer Vision Researcher @ UM-TC
