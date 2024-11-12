@@ -3,18 +3,11 @@
 You can contact me at <a href="mailto:vinhnguyenlethanh@gmail.com">vinhnguyenlethanh@gmail.com</a> or <a href="https://www.linkedin.com/in/vinh-nguyen-a42943238/">LinkedIn.</a> Also, please check out my <a href="https://nguyenltvinh.github.io">personal website</a> for more information.
 
 ### About Me 🤓
-- 🖥️ Computer Vision Researcher @ UM-TC
+- 🖥️ Student Researcher @ UM-TC
 - 🧑‍💻️ Software Development Intern @ Hennepin County
 - 🚀 Embedded Systems Developer @ UM-TC Small Satellite Research Lab
 - 🎓 Master's Student @ UM-TC
 - 🐧 Linux Enthusiast
-- 💭 Interested in a variety of topics, especially Computer Vision, IoT, Embedded Systems
-
-### Working on 🔧
-- 🏅 Creating a software to augment sport videos with information such as athlete's information, program components, scoring, etc. using pose estimation and facial recognition.
-- 🔑 Building an eKYC system with facial recognition and verification with measures to prevent spoofing attacks.
-- 🧑‍🔬️ Working on my Master's thesis.
-- ⛸️ Working on the Flip, Lutz, and Axel jumps in figure skating.
 
 ### My CV 📄
 You can see my CV <a href="https://drive.google.com/file/d/1WatadqGOAr2WHvgXmahEMYQl4A6dYMtS/view?usp=sharing">here</a>
