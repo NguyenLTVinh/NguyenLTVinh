@@ -26,7 +26,3 @@ You can contact me at <a href="mailto:vinhnguyenlethanh@gmail.com">vinhnguyenlet
 |----------|----------|----------|--------|----------|--------|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Tux"  alt="Tux" width="55" height="55"/>|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"  alt="Git" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="Swagger"  alt="Swagger" width="55" height="55"/>
                 
----
-<div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw1OXp6dWRpcHZ3dzEzejdoOHc1bDJkY2ZsbHFkMmlvanh2eGQ1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AO5qaphTxRnyw/giphy.gif" width="100%" height="100%" style="border: 20px solid #000000; border-radius: 10px;" />
-</div>
